@@ -8,7 +8,7 @@ using Tweetinvi.Core.Interfaces;
 
 namespace BotAndLuisDemo
 {
-    [LuisModel("fa71c414-2110-4ce9-b258-67e36f3cf3e8", "25d92877ee5e4f06be37a75607d3eade")]
+    [LuisModel("pon la tuya", "pon la tuya")]
     [Serializable]
     public class TwitterDialog : LuisDialog<object>
     {
