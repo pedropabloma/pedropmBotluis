@@ -9,10 +9,10 @@ namespace BotAndLuisDemo
     {
         static TwitterService()
         {
-            const string consumerKey = "e037q3on2cD7hF7lKZq8sxGlt"; // The application's consumer key
-            const string consumerSecret = "rfDAKEUcjH0J3XQJwMkh8xp1S7J9CUa5b3XKvas29ATfzeO9hJ"; // The application's consumer secret
-            const string accessToken = "51491702-L4XExU1N71rZtyfYrXm8jTBUHxtlfYDUmpQ4DY6GB"; // The access token granted after OAuth authorization
-            const string accessTokenSecret = "6xtYhJ7y3RjQ2yAIhepVYjdZQjYizOQ58tXwFljaEVIGb"; // The access token secret granted after OAuth authorization
+            const string consumerKey = "pon la tuya"; // The application's consumer key
+            const string consumerSecret = "pon la tuya"; // The application's consumer secret
+            const string accessToken = "pon la tuya"; // The access token granted after OAuth authorization
+            const string accessTokenSecret = "pon la tuya"; // The access token secret granted after OAuth authorization
 
             Auth.SetUserCredentials(consumerKey, consumerSecret, accessToken, accessTokenSecret);
         }
